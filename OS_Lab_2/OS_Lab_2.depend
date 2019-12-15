@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541190825 source:/home/ab_shams/Desktop/OS_Lab_2/Matrix_Mul.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+
+1541027214 source:/home/ab_shams/Desktop/OS_Lab_2/main.c
+	<stdio.h>
+	<stdlib.h>
+

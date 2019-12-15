@@ -1,0 +1,6 @@
+11 12 26 
+4 1 -7 
+END1	time elapsed in nano seconds: 1763053
+11 12 26 
+4 1 -7 
+END2	time elapsed in nano seconds: 204877
